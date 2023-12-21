@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2edb3e4ce4dd3314598f55e0085a76f3, type: 3}
+  m_Name: MuseumCharacterFinish
+  m_EditorClassIdentifier: 
+  dialogueList:
+  - {fileID: 21300000, guid: 11472e538f6c20d4bb506f688e0ecae0, type: 3}
